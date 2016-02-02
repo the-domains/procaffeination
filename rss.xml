@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[procaffeination]]></title>
+        <description><![CDATA[procaffeination]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 23:13:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vintage Heart Coffee | Austin, TX]]></title>
+            <description><![CDATA[<article><h1>Vintage Heart Coffee | Austin, TX</h1><p>Vintage Heart Coffee is the best coffee shop in Austin, TX. It is located at 1405 E 7th St and is open from 7am - 8pm daily.</p></article>]]></description>
+            <link>https://vintageheart.coffee/</link>
+            <guid isPermaLink="false">14e2d116-017d-421c-b89f-005cc0ea7109</guid>
+            <pubDate>Tue, 02 Feb 2016 23:13:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
