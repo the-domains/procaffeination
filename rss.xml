@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[procaffeination]]></title>
         <description><![CDATA[procaffeination]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/procaffeination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 23:13:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 23:13:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/procaffeination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://yourdailycoffeeshot.com/wp-content/uploads/2013/10/coffee-beautiful.jpg">]]></description>
+            <link>https://thegrid.ai/procaffeination/4b83f97c-5fdb-415c-8350-1b46e3b9f4b7/index.html</link>
+            <guid isPermaLink="false">4b83f97c-5fdb-415c-8350-1b46e3b9f4b7</guid>
+            <pubDate>Tue, 02 Feb 2016 23:13:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vintage Heart Coffee | Austin, TX]]></title>
             <description><![CDATA[<article><h1>Vintage Heart Coffee | Austin, TX</h1><p>Vintage Heart Coffee is the best coffee shop in Austin, TX. It is located at 1405 E 7th St and is open from 7am - 8pm daily.</p></article>]]></description>
